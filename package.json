@@ -1,0 +1,14 @@
+{
+  "name": "job-nimbus",
+  "version": "1.0.0",
+  "description": "",
+  "main": "nimbus.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^27.0.6"
+  }
+}
